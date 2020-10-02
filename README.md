@@ -1,6 +1,7 @@
 # Hacktober fest
 
 ## Contribute this HacktoberFest
+
 1. Fork this Repository
 2. Goto `content/`
 3. Add your name and GitHub Id in `data.yml` file
@@ -12,7 +13,9 @@
 ```
 6. Make a Pull Request :tada: :tada: 
 
+
 ## Installation
+
 
 Assuming you have gatsby set up,
 
